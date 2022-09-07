@@ -38,7 +38,7 @@ For preprocessing, Roboflow API to do the follwing preprocessing steps:
 
 *1. Train, validation, test split* - 70%, 20%, 10%
 
-*2. Resize image* - 640*640 and 320*320 
+*2. Resize image* - 640x640 and 320x320 
 
 *3. Image augmentation* - shear bounding box, mosaic
 
